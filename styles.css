@@ -7,7 +7,7 @@
 h1,
 h2,
 h3 {
-  margin: 0;
+  margin-top: 5px;
 }
 
 h1 {
@@ -46,7 +46,6 @@ p {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
-  text-align: text-center text-sm-start;
 }
 
 .secondary-link {
