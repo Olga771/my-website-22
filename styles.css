@@ -7,7 +7,7 @@
 h1,
 h2,
 h3 {
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 h1 {
@@ -77,10 +77,12 @@ p {
 
 .email-link {
   display: flex;
-  justify-content: center;
+  text-align: center;
+  justify-content: flex-end;
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
+  margin: auto;
 }
 
 .email-link:hover {
